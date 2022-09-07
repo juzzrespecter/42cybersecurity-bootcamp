@@ -1,0 +1,6 @@
+[submodule "42cysec-iron_dome"]
+	path = 42cysec-iron_dome
+	url = https://github.com/juzzrespecter/42cysec-iron_dome
+[submodule "iron_dome"]
+	path = iron_dome
+	url = https://github.com/juzzrespecter/42cysec-iron_dome
