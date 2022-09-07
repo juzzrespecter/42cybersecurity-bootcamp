@@ -1,6 +1,24 @@
-[submodule "42cysec-iron_dome"]
-	path = 42cysec-iron_dome
-	url = https://github.com/juzzrespecter/42cysec-iron_dome
 [submodule "iron_dome"]
 	path = iron_dome
 	url = https://github.com/juzzrespecter/42cysec-iron_dome
+[submodule "tsunami"]
+	path = tsunami
+	url = https://github.com/juzzrespecter/42cysec-tsunami
+[submodule "arachnida"]
+	path = arachnida
+	url = https://github.com/juzzrespecter/42cysec-arachnida
+[submodule "inquisitor"]
+	path = inquisitor
+	url = https://github.com/juzzrespecter/42cysec-inquisitor
+[submodule "stockholm"]
+	path = stockholm
+	url = https://github.com/juzzrespecter/42cysec-stockholm
+[submodule "ft_onion"]
+	path = ft_onion
+	url = https://github.com/juzzrespecter/42cysec-ft_cebolla
+[submodule "coRSAir"]
+	path = coRSAir
+	url = https://github.com/juzzrespecter/42cysec-coRSAir
+[submodule "ft_otp"]
+	path = ft_otp
+	url = https://github.com/juzzrespecter/42cysec-ft_otp
